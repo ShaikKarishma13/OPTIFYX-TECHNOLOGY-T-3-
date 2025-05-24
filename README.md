@@ -84,3 +84,5 @@ The *ATM Interface* project serves as a strong starting point for learning the f
 ---
 
 ## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/fe5712fb-27ea-4ff0-98f0-2e552375711e)
