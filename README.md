@@ -5,7 +5,7 @@
 *INTERN ID: OPT/CS/2858 
 *DOMAIN: JAVA PROGRAMMING 
 *DURATION: 4 WEEKS (15th May 2025 -15thJune 2025)
-*TASK-TASK-1 (LEVEL-2)
+*TASK:TASK-1 (LEVEL-2)
 
 ## Project Overview
 This *ATM Interface* project is a simple console-based application developed using Java. It simulates the basic operations of an Automated Teller Machine (ATM), allowing users to authenticate themselves using a user ID and PIN, and then perform common banking functions such as balance inquiry, withdrawal, deposit, and viewing transaction history.
